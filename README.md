@@ -28,4 +28,4 @@ Error:   × Some tasks failed
 
 ## Related Issue
 
-TBD
+https://github.com/cachix/devenv/issues/2512
